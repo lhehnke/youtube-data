@@ -1,5 +1,5 @@
 # youtube-data
-Replication data for analyzing YouTube comments and video statistics on the Florida High School Shooting in February 2018. The project was done in collaboration with [Josef Holnburger](https://holnburger.com/).
+Replication script for analyzing YouTube comments and video statistics on the Florida High School Shooting in February 2018. The project was done in collaboration with [Josef Holnburger](https://holnburger.com/).
 
 ## Presentation_SciCAR.pdf
 
